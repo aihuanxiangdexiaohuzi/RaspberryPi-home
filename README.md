@@ -6,13 +6,7 @@
 
 | **`Documentation`** | **`Raspberrypi Pi`** | **`Python`** | **`tensorflow`**|
 |-----------------|---------------------|------------------|------------------|
-<<<<<<< HEAD
 | [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](http://hltsir.club/)|[![Build Status](https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-cpu)](https://www.raspberrypi.org/)| [![Download](https://api.bintray.com/packages/google/tensorflow/tensorflow/images/download.svg)](https://www.python.org/downloads/)
-
-
-=======
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](http://hltsir.club/)|![Build Status](https://ci.tensorflow.org/buildStatus/icon?job=tensorflow-master-cpu)[](https://www.raspberrypi.org/)| ![Download](https://api.bintray.com/packages/google/tensorflow/tensorflow/images/download.svg) ](https://www.python.org/downloads/)|-----|
->>>>>>> 598a930e485eb6e10e82c3e9e029fdeb896824b6
 
 
 #### this is a new project
